@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Usage questions / 使用交流"
+    url: https://github.com/zjuphD/BioSeeki/discussions
+    about: "Ask questions and share workflows. / 使用问题与科研场景交流。"
+  - name: "Private support / 私下联系支持"
+    url: mailto:support@bioseeki.com
+    about: "Account, billing, and sensitive issues. / 账号、费用及不适合公开的问题。"

@@ -1,0 +1,23 @@
+name: "Feature request / 功能建议"
+description: "Suggest a better research workflow. / 提出一个具体的科研使用需求。"
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: "What are you trying to do? / 你想完成什么？"
+      description: "Describe the research task and what currently gets in the way. / 说明使用场景，以及目前卡在哪里。"
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "Suggested improvement / 希望怎样改进"
+      description: "A concrete before/after example is helpful. / 可以给出改进前后的具体例子。"
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Current workaround / 目前的处理方法（可选）"

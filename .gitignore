@@ -1,0 +1,23 @@
+# This repository is an allowlist of public product materials.
+# Keep application code, build products, local research data and credentials out.
+*
+!.gitignore
+!README.md
+!README.zh-CN.md
+!CHANGELOG.md
+!NOTICE.md
+!CONTRIBUTING.md
+!SECURITY.md
+!assets/
+!assets/bioseeki-logo.svg
+!assets/cover.png
+!assets/research-workflow.png
+!assets/social-preview.png
+!docs/
+!docs/getting-started.md
+!docs/getting-started.zh-CN.md
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/bug_report.yml
+!.github/ISSUE_TEMPLATE/feature_request.yml
+!.github/ISSUE_TEMPLATE/config.yml

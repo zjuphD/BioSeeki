@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 40"><g transform="scale(.078125)">
+<title id="bioseeki-dimensional-ribbon-graphite-title">BioSeeki / dimensional ribbon / graphite</title>
+<desc id="bioseeki-dimensional-ribbon-graphite-desc">BioSeeki folded S. Editable vector paths.</desc>
+<defs>
+      <linearGradient id="bioseeki-dimensional-ribbon-graphite-top" x1="24" y1="120" x2="214" y2="98" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#3A4941"/><stop offset=".44" stop-color="#15211A"/><stop offset="1" stop-color="#0C1410"/>
+      </linearGradient>
+      <linearGradient id="bioseeki-dimensional-ribbon-graphite-front" x1="22" y1="232" x2="235" y2="292" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#0C1410"/><stop offset=".24" stop-color="#15211A"/><stop offset=".67" stop-color="#3A4941"/><stop offset=".84" stop-color="#607467"/><stop offset="1" stop-color="#15211A"/>
+      </linearGradient>
+      <linearGradient id="bioseeki-dimensional-ribbon-graphite-bottom" x1="48" y1="392" x2="228" y2="410" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#15211A"/><stop offset=".35" stop-color="#3A4941"/><stop offset="1" stop-color="#0C1410"/>
+      </linearGradient>
+      <linearGradient id="bioseeki-dimensional-ribbon-graphite-edge1" x1="16" y1="157" x2="81" y2="188" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#607467"/><stop offset=".5" stop-color="#EEF0EA"/><stop offset="1" stop-color="#3A4941"/>
+      </linearGradient>
+      <linearGradient id="bioseeki-dimensional-ribbon-graphite-edge2" x1="139" y1="337" x2="230" y2="384" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#3A4941"/><stop offset=".78" stop-color="#EEF0EA"/><stop offset="1" stop-color="#15211A"/>
+      </linearGradient>
+      <clipPath id="bioseeki-dimensional-ribbon-graphite-ribbon"><path d="M216 16 L38 124 Q16 137 16 157 L16 248 Q16 267 36 279 L139 337 L57 390 Q48 396 48 406 L48 496 L218 389 Q240 375 240 354 L240 298 Q240 280 222 269 L81 188 L202 113 Q216 104 216 89 Z"/></clipPath>
+    </defs><g clip-path="url(#bioseeki-dimensional-ribbon-graphite-ribbon)">
+      <path d="M216 16 L38 124 Q16 137 16 157 L16 248 Q16 267 36 279 L139 337 L57 390 Q48 396 48 406 L48 496 L218 389 Q240 375 240 354 L240 298 Q240 280 222 269 L81 188 L202 113 Q216 104 216 89 Z" fill="#0C1410"/>
+      <path d="M139 337 L57 390 Q48 396 48 406 L48 496 L218 389 Q240 375 240 354 C228 378 193 368 139 337 Z" fill="url(#bioseeki-dimensional-ribbon-graphite-bottom)"/>
+      <path d="M216 16 L38 124 Q16 137 16 157 C16 170 43 185 81 188 L202 113 Q216 104 216 89 Z" fill="url(#bioseeki-dimensional-ribbon-graphite-top)"/>
+      <path d="M16 157 C16 170 43 185 81 188 L222 269 Q240 280 240 298 L240 354 Q240 375 218 389 L139 337 L36 279 Q16 267 16 248 Z" fill="url(#bioseeki-dimensional-ribbon-graphite-front)"/>
+      <path d="M16 157 C16 170 43 185 81 188" fill="none" stroke="url(#bioseeki-dimensional-ribbon-graphite-edge1)" stroke-width="2.7"/>
+      <path d="M139 337 L218 382 Q230 390 237 373" fill="none" stroke="url(#bioseeki-dimensional-ribbon-graphite-edge2)" stroke-width="2.5"/>
+      <path d="M216 17 L216 89 Q216 103 202 113" fill="none" stroke="#3A4941" stroke-width="1.2" opacity=".45"/>
+      <path d="M48 496 L48 406 Q48 396 57 390" fill="none" stroke="#607467" stroke-width="1.2" opacity=".34"/>
+    </g>
+</g><text x="29" y="29" font-family="Arial,sans-serif" font-size="29" font-weight="500" letter-spacing="-1.5" fill="#152b2d">BioSeeki</text></svg>
