@@ -15,7 +15,7 @@
 
 BioSeeki is a personal AI research workspace for life sciences. Read papers, analyze data, work with sequences, and develop research materials while keeping the questions, sources, and outputs together.
 
-This is BioSeeki’s **official public product hub**: an introduction, guides, release notes, and a place for feedback. **BioSeeki is proprietary software. This repository does not publish the application’s source code.**
+Explore BioSeeki’s capabilities, get started with practical guides, follow releases, and share feedback here.
 
 ## From a research question to usable work
 
